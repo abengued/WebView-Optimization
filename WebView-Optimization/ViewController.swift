@@ -11,7 +11,7 @@ import WebKit
 class ViewController: UIViewController {
     var webView: WKWebView!
     var popupWebView: WKWebView?
-    var urlPath: String = "https://facebook-login-demo-71f0c.firebaseapp.com"
+    var urlPath: String = "https://wallet.attest.network/settings"
     
     open override func viewDidLoad() {
         super.viewDidLoad()
